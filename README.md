@@ -7,7 +7,7 @@ Each time the desired string is found, the program will output the file line and
 
 Command Line Arguments:
 
-		Name of program
+	Name of program
   	Filename of the book
   	String to search for 
 
